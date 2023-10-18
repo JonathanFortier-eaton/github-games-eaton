@@ -11,3 +11,5 @@ This fun open source game was cloned from: https://github.com/jakesgordon/javasc
 Merged changes from both branches
 
 Change #1!!! Merged conflicting change 
+ 
+Other conflicting change 4
